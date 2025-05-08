@@ -17,3 +17,32 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/OguzhanErkan3/Carousel-project.git
+
+# 🚀 How to Run the Project Locally
+
+To properly view and interact with the carousel (especially since it loads product data via `fetch()`), you **must** run it using a local web server. Here’s how:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/OguzhanErkan3/Carousel-project.git
+   ```
+
+2. Navigate into the project directory:
+   ```bash
+   cd Carousel-project
+   ```
+
+3. Start a local server (using http-server if Node.js is installed):
+   ```bash
+   npx http-server
+   ```
+
+   > If `http-server` is not installed, you can install it globally:
+   > ```bash
+   > npm install -g http-server
+   > ```
+
+4. Open your browser and go to:
+   ```
+   http://127.0.0.1:8080
+   ```
