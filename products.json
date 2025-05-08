@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Bisiklet Yaka Düz Kısa Kollu Kadın Elbise",
+    "url": "#",
+    "img": "https://images.pexels.com/photos/769817/pexels-photo-769817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+    "price": 125.99
+  },
+  {
+    "id": 2,
+    "name": "Standart Fit Cep Detaylı Kadın Rodeo Jean Şort",
+    "url": "#",
+    "img": "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+    "price": 99.99
+  },
+  {
+    "id": 3,
+    "name": "Bisiklet Yaka Nakış İşlemeli Uzun Kollu Viskon Kadın Bluz",
+    "url": "#",
+    "img": "https://images.pexels.com/photos/769817/pexels-photo-769817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+    "price": 64.99
+  },
+  {
+    "id": 4,
+    "name": "Bisiklet Yaka Kısa Kollu Erkek Spor Tişört",
+    "url": "#",
+    "img": "https://images.pexels.com/photos/4483266/pexels-photo-4483266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+    "price": 59.99
+  },
+  {
+    "id": 5,
+    "name": "Büyük Beden V Yaka Düz Kısa Kollu Pamuklu Kadın Elbise",
+    "url": "#",
+    "img": "https://images.pexels.com/photos/2036646/pexels-photo-2036646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+    "price": 125.99
+  },
+  {
+    "id": 6,
+    "name": "V Yaka Düz Kısa Kollu Pamuklu Hamile Elbise",
+    "url": "#",
+    "img": "https://images.pexels.com/photos/4587660/pexels-photo-4587660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+    "price": 135.99
+  },
+  {
+    "id": 7,
+    "name": "Bisiklet Yaka Çizgili Kısa Kollu Kadın Elbise",
+    "url": "#",
+    "img": "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+    "price": 150.99
+  },
+  {
+    "id": 8,
+    "name": "Büyük Beden Bisiklet Yaka Düz Kısa Kollu A Kesim Kadın Elbise",
+    "url": "#",
+    "img": "https://images.pexels.com/photos/3757144/pexels-photo-3757144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+    "price": 150.99
+  },
+  {
+    "id": 9,
+    "name": "Beli Lastikli Düz Cep Detaylı Kadın Şort",
+    "url": "#",
+    "img": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+    "price": 90.99
+  },
+  {
+    "id": 10,
+    "name": "Bisiklet Yaka Beli Kemerli Kolsuz Pamuklu Kadın Elbise",
+    "url": "#",
+    "img": "https://images.pexels.com/photos/2983463/pexels-photo-2983463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500",
+    "price": 120.99
+  }
+]
